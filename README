@@ -1,12 +1,14 @@
-ContactDo 1.0 BETA, Advanced contact-us class
+# ContactDo
+1.0 BETA
 
-Coded by: Ahmed Hosny < http://AhmedHosny.com >
+## Coded by:
+Ahmed Hosny < http://AhmedHosny.com >
 
-With ContactDo 1.0 BETA, You can:
+## With ContactDo 1.0 BETA, You can:
 	1- Create simple contact us form.
 	2- reCaptcha Validation.
 	3- Mark some fields as required.
 	4- Set some fields types to 'num', 'email' or 'URL'.
 	5- Set some fields Max. or Min. Length.
 
-Any contributions are welcomed !.
+## Any contributions are welcomed !.
