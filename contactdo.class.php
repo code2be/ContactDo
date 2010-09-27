@@ -1,7 +1,7 @@
 <?php
 
 /*
-		ContactDo 1.0 BETA, Advanced contact-us class
+	ContactDo 1.0 BETA, Advanced contact-us class
 	Copyright (C)  Ahmed Hosny < http://AhmedHosny.com >
 												
 	This program is free software: you can redistribute it and/or modify
